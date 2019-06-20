@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{6380898D-E01F-BFA1-D0DA-A34385A22464}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Controller.cs" Line="52" Column="54" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="200" Column="75" />
+      <File FileName="Assets/Scripts/stats.cs" />
+      <File FileName="Assets/Scripts/effects.cs" />
+      <File FileName="Assets/Scripts/LoadSceneOnClick.cs" />
+      <File FileName="Assets/Scripts/MoveCam.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2dfd39b6-3625-496c-9412-b6661f7492f4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
